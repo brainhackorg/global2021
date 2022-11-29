@@ -89,6 +89,11 @@
       "color": "c5def5"
     },
     {
+      "name": "bhg:boston_usa_1",
+      "description": "BHG 2021 Boston event",
+      "color": "d4c5f9"
+    },
+    {
       "name": "programming:html_css",
       "description": "",
       "color": "5319e7"
