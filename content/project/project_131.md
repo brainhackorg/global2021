@@ -14,6 +14,11 @@
       "color": "006b75"
     },
     {
+      "name": "project",
+      "description": "",
+      "color": "f9bc70"
+    },
+    {
       "name": "tools:BIDS",
       "description": "",
       "color": "0052cc"
